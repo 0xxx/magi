@@ -1,1 +1,3 @@
-# magi
+# Fish
+## Magi
+## Fish Magic
